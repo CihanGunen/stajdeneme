@@ -1,0 +1,1 @@
+print("Kendine iyi bak")
