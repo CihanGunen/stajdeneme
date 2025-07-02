@@ -1,3 +1,8 @@
+print ("hello world")
+print("Sesim geliyor mu? ")
+print("branch değğiştirdim")
+c=2
+
 print ("hello world") 
 x=5
 y=6
