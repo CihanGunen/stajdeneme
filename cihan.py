@@ -11,3 +11,4 @@ print("Furkan" \
 print("mal cihan .d")
 print("tunahan ses ver")
 print("Furkan")
+print("Oldu mu ?")
