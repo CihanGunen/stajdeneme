@@ -1,0 +1,1 @@
+print("Bu kod ben tarafından yazıldı")
