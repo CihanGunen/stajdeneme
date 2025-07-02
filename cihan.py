@@ -6,4 +6,4 @@ z=10
 print("tatata")
 #Furkan Keskin
 print("tuanhan bak bi")
-oluyormu niye olmuyor 
+'oluyormu niye olmuyor' 
